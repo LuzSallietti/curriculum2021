@@ -1,0 +1,7 @@
+node_modules
+recursos extras/
+src/
+package.json
+package-lock.json
+postcss.config.js
+tailwind.config.js
