@@ -1,2 +1,2 @@
 ## Mi Curriculum 2021
-* Trabajando con Tailwind CSS
+* Mi primera landing page aplicando Tailwind CSS :)
